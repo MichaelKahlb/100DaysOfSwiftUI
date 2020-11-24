@@ -4,3 +4,5 @@
   -) 22.11.20 Finished Day 1,2 and 3Basic Stuff, but still learned something new
   
   -) 23.11.20 Finished Day 4 Learned about Loops
+  
+  -) 24.11.20 Finished Day 5 Felling very comfortable with all Different Functions now. Looking Forward to the Closures in the next chapter of 100DaysOfSwiftUi
