@@ -8,3 +8,5 @@
   -) 24.11.20 Finished Day 5 Felling very comfortable with all Different Functions now. Started with Day 6, First Day of Closures, sounds Scarry but it wasnt that hard. Just Repeat it often enough then it becomes more Logic to my Brain 
 
  -) 25.11.20 Closures Closures Closures, Finished Day 7 Closures Part 2. Since there are so many different ways of writing them i will repeat it tomorrow.
+
+ -) 26.11.20 Day 8 Done. Learned about Structs, Methods, stored and computed properties.
