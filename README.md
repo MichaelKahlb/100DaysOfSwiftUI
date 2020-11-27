@@ -10,3 +10,5 @@
  -) 25.11.20 Closures Closures Closures, Finished Day 7 Closures Part 2. Since there are so many different ways of writing them i will repeat it tomorrow.
 
  -) 26.11.20 Day 8 Done. Learned about Structs, Methods, stored and computed properties.
+ 
+ -) 27.11.20 Day 9 Done. Learned about access control, static properties, and laziness
