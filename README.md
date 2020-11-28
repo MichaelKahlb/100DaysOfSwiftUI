@@ -13,4 +13,4 @@
  
  -) 27.11.20 Day 9 Done. Learned about access control, static properties, and laziness
  
- -) 28.11.20 Day 10 Done. Stil 90 Days to go :-) Finally understand the difference Between reference Types and value Types. Also learned when we use the override keyword.
+ -) 28.11.20 Day 10 Done. Stil 90 Days to go :-) Finally understand the difference Between reference Types and value Types. Also learned when we use the override keyword. Mutable Func can only be used at structs, when you change a value of a struct. 
