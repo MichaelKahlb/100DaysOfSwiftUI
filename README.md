@@ -12,3 +12,5 @@
  -) 26.11.20 Day 8 Done. Learned about Structs, Methods, stored and computed properties.
  
  -) 27.11.20 Day 9 Done. Learned about access control, static properties, and laziness
+ 
+ -) 28.11.20 Day 10 Done. Stil 90 Days to go :-) Finally understand the difference Between reference Types and value Types. Also learned when we use the override keyword.
