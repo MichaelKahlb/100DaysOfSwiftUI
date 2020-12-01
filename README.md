@@ -18,3 +18,5 @@
  -) 29.11.20 Finished Day 11, Learned about Extensions and Protocols. Note for me: Extensions cannot have stored properties i must use computed properties.
  
  -) 30.11.20 Finished Day 12, feeling comfortable with Optinals now.
+ 
+ -) 01.12.20 Today i did not continue with Day 13 of Hacking with Swift, instead i worked at my Project, the LocationTimeTracker, as well as took the #AdventOfCode Challege, and solved the first riddle.
