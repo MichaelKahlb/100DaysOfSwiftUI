@@ -20,3 +20,5 @@
  -) 30.11.20 Finished Day 12, feeling comfortable with Optinals now.
  
  -) 01.12.20 Today i did not continue with Day 13 of Hacking with Swift, instead i worked at my Project, the LocationTimeTracker, as well as took the #AdventOfCode Challege, and solved the first riddle.
+ 
+ -) 02.12.20 Today also no HWS, instead i did the AdventOfCode Challenge Day 2. Had to learn a lot about Strings to finish this challenge.
