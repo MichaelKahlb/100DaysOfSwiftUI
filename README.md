@@ -24,3 +24,5 @@
  -) 02.12.20 Today also no HWS, instead i did the AdventOfCode Challenge Day 2. Had to learn a lot about Strings to finish this challenge.
  
  -) 03.12.20 After two days break with HWS. i continuad today and finished day 13, 14  and 15, the consolidation days. I also Started with the first Videos of Swift UI. Puh. If you only UIKit, SwiftUI seems like a huge change.
+ 
+ -) 04.12.20 Finished Day 16 and 17 and uploaded mi first SwiftUI Project. SwiftUI starts to make sense for me, but there is stil so much to learn, cant wait for the next days.
