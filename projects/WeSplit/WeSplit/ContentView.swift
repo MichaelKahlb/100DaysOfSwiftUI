@@ -10,13 +10,13 @@ import SwiftUI
 struct ContentView: View {
     
     @State private var checkAmount = ""
-    @State private var numberOfPeople = 2
+    @State private var numberOfPeople = ""
     @State private var tipPercentage = 2
     
     let tipPercentages = [10, 15, 20, 25, 0]
     
     var totalPerPerson: Double {
-        let peopleCount = Double(numberOfPeople + 2)
+        let peopleCount = Double(Int(numberOfPeople) ?? 1)
         let tipSelection = Double(tipPercentages[tipPercentage])
         let orderAmout = Double(checkAmount) ?? 0
         let tipValue = orderAmout / 100 * tipSelection
@@ -25,18 +25,29 @@ struct ContentView: View {
         return amountPerPerson
     }
     
+    var totalAmount: Double {
+        let tipSelection = Double(tipPercentages[tipPercentage])
+        let orderAmout = Double(checkAmount) ?? 0
+        let tipValue = orderAmout / 100 * tipSelection
+        let grandTotal = orderAmout + tipValue
+        return grandTotal
+    }
+    
     var body: some View {
         NavigationView {
             Form {
                 Section {
                     TextField("Amount", text: $checkAmount)
                         .keyboardType(.decimalPad)
+                    TextField("Number of People", text: $numberOfPeople)
+                        .keyboardType(.numberPad)
+//                    Picker("Number of People", selection: $numberOfPeople) {
+//                        ForEach(2 ..< 100) {
+//                            Text("\($0) people")
+//                        }
+//                    }
+                    //Challege: Add TExtfield instead of Picker.
                     
-                    Picker("Number of People", selection: $numberOfPeople) {
-                        ForEach(2 ..< 100) {
-                            Text("\($0) people")
-                        }
-                    }
                 }
                 
                 Section(header: Text("How much Tip do you want to leave")) {
@@ -48,8 +59,12 @@ struct ContentView: View {
                     .pickerStyle(SegmentedPickerStyle())
                 }
                 
-                Section(header: Text("Yout tip should be")) {
+                Section(header: Text("Amount per Person")) {
                     Text("$ \(totalPerPerson, specifier: "%.2f")")
+                }
+                
+                Section(header: Text("Total Amount")) {
+                    Text("$ \(totalAmount, specifier: "%.2f")")
                 }
             }
             .navigationBarTitle("Wesplit")
