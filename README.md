@@ -26,3 +26,5 @@
  -) 03.12.20 After two days break with HWS. i continuad today and finished day 13, 14  and 15, the consolidation days. I also Started with the first Videos of Swift UI. Puh. If you only UIKit, SwiftUI seems like a huge change.
  
  -) 04.12.20 Finished Day 16 and 17 and uploaded mi first SwiftUI Project. SwiftUI starts to make sense for me, but there is stil so much to learn, cant wait for the next days.
+ 
+ -) 07.12.20 After 2 days break i finished today Day 18 up to 22. Making the Project Guess the Flag was a lot of fun. Uploaded the Project Guess the Flag with the challeges included. For me the challanges today were pretty easy. I continued working at the Location Time Tracker, i learned about Map View Overlays and how to add a circle to the map.
