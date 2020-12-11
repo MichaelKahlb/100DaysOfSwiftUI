@@ -34,3 +34,5 @@
  -) 09.12.20 Finished Day 23 Views and Modifiers of 100DaysOfSwiftUI. Created my Own View stuct and View Modifer. For me it´s stil a bit strange that the order matters when you add several modifiers. To create a costum modifers i hat to create a struct forst that conforms to the ViewModifier Protocol and with that modifier i can add an Extension the the View Struct.
  
  -) 10.12.20 Day 24 done! Views and modifiers: Wrap up. As always reptition is the key.
+ 
+ -) 11.12.20 Today i took a day off of HSW
