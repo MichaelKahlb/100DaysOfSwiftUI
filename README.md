@@ -35,4 +35,6 @@
  
  -) 10.12.20 Day 24 done! Views and modifiers: Wrap up. As always reptition is the key.
  
- -) 11.12.20 Today i took a day off of HSW
+ -) 11.12.20 Today i took a day off of 100DaysOfSwiftUI because i had a lot of work in my Daytime Job.
+ 
+ -) 12.12.20 Finished my first Milestone Project. It wasnt difficult to build i just wasnt 100% shure about how the game should work. Later i will come back to this project and will make it look nice.
