@@ -40,3 +40,5 @@
  -) 12.12.20 Finished my first Milestone Project. It wasnt difficult to build i just wasnt 100% shure about how the game should work. Later i will come back to this project and will make it look nice.
  
  -) 13.12.20 Finished Day 26. Started the new Project BetterRest. With a Introducion to CoreML.
+ 
+ -) 21.12.20 Finished Day 27. Had to rest a bit the last days, the Lockdown and stress at work made me feel tired, so i wasnt motivated to stay focused on 100DaysOfSwiftUI. But today i started again, and will keep goin. Today was my first touch witch Core ML, so far so easy, but im interested how the model was made, going to google that now.
