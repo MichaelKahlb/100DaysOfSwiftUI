@@ -44,3 +44,5 @@
  -) 21.12.20 Finished Day 27. Had to rest a bit the last days, the Lockdown and stress at work made me feel tired, so i wasnt motivated to stay focused on 100DaysOfSwiftUI. But today i started again, and will keep goin. Today was my first touch witch Core ML, so far so easy, but im interested how the model was made, going to google that now.
 
 -) 31.12.2020 Finished Days 28-31 DId the Challege for the Better Rest App. And Finished the Whole Word Scramble Project including the challenges. I Have never worked woth the UITextChecker before, but doesnt seem hard to use.
+
+-) 01.01.2021 Day 32 Done. First time working with animations in Swift UI, and the first day of the new year as well.
